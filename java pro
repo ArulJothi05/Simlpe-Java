@@ -25,6 +25,6 @@ public class AttractiveProgram {
         System.out.println(separator);
         System.out.println("Thank you for using My Attractive Java Program!");
         System.out.println(separator);
-        System.out.println("Arul");
+
     }
 }
