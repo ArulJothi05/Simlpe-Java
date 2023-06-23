@@ -2,6 +2,6 @@ public class AttractiveProgram {
     public static void main(String[] args) {
       System.out.println("Arul");
 System.out.println("Jothi");
-System.out.println("NKN_DevOPS");
+System.out.println("NKN");
     }
 }
