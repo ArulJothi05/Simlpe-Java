@@ -1,2 +1,2 @@
-# Simlpe-Java
+# Simple-Java
 to connect with Jenkins module
